@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Eugene
 
-<!--
-**j3ny0k/j3ny0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend / DevOps learner focused on building practical backend systems.
 
-Here are some ideas to get you started:
+## Currently working with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Flask
+- SQLite
+- pytest
+- Git & GitHub
+- GitHub Actions
+- Waitress
+
+## Main project
+
+### Expense Tracker API
+
+REST API for expense tracking with authentication, CRUD, filtering, sorting, pagination, SQL aggregation, automated tests, CI, and runtime smoke testing.
+
+**Repository:** [expense-tracker-api](https://github.com/j3ny0k/expense-tracker-api)
+
+## Current direction
+
+Backend development → DevOps.
+
+I focus on understanding how applications work end-to-end: code, database, tests, CI, runtime, and deployment.
